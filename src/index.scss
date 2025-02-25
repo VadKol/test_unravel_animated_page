@@ -1,0 +1,13 @@
+@use '@styles/reset';
+@use '@styles/typography';
+
+:root {
+  font-family: 'Mont', sans-serif;
+  font-weight: 700;
+  scroll-behavior: smooth;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
